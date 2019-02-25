@@ -3,4 +3,4 @@ git init
 git add README.md
 git "Nabokova Darya"
 git https://www.codecademy.com/users/dashanab/achievements
-git push -u origin master
+git push
